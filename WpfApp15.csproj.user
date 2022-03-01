@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Pages\EditCuratorPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\EditGroupPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\EditJournalPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\EditPrepodPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\EditSpecialPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\EditStudentPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\OptionPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ViewGroupsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ViewPrepodsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ViewSpecialsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\EditCuratorPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\EditGroupPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\EditJournalPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\EditPrepodPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\EditSpecialPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\EditStudentPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\OptionPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ViewGroupsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ViewPrepodsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ViewSpecialsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ViewStudentsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
